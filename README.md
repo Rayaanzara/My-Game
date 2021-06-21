@@ -1,1 +1,2 @@
-# My-Game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
